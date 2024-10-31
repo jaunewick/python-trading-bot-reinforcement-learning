@@ -1,3 +1,4 @@
 **/.env/
 **/.venv/
 **.DS_Store
+recurrent_ppo_stocks.zip
